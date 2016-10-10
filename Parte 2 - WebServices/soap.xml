@@ -1,0 +1,26 @@
+Consulta de um cliente ao Web service, solicitando informações sobre um produto:
+
+<soap:Envelope
+xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+
+<soap:Body>
+<getProductDetails xmlns="http://coaristore.com.br/ws">
+<productId>401200</productId>
+</getProductDetails>
+</soap:Body>
+
+</soap:Envelope>
+
+
+Resposta do Web Service:
+
+<soap:Envelope
+xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+
+<soap:Body>
+<getProductDetailsResponse xmln="http://coaristore.com.br/ws">
+
+<getProductDetailsResult>
+<productName>Maçã</productName>
+
+

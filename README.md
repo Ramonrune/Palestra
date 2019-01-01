@@ -17,17 +17,17 @@ Another topic is connection to database using web services structure. The didact
         <tr>
             <td width="189" valign="top">
                 <p>
-                    <strong>DATA</strong>
+                    <strong>DATE</strong>
                 </p>
             </td>
             <td width="189" valign="top">
                 <p>
-                    <strong>HORÁRIO</strong>
+                    <strong>HOUR</strong>
                 </p>
             </td>
             <td width="189" valign="top">
                 <p>
-                    <strong>TÓPICOS ABORDADOS</strong>
+                    <strong>TOPICS COVERED</strong>
                 </p>
             </td>
         </tr>
@@ -39,7 +39,7 @@ Another topic is connection to database using web services structure. The didact
             </td>
             <td width="189" valign="top">
                 <p>
-                    <strong>PRIMEIRO DIA</strong>
+                    <strong>FIRST DAY</strong>
                 </p>
             </td>
             <td width="189" valign="top">
@@ -61,7 +61,7 @@ Another topic is connection to database using web services structure. The didact
             </td>
             <td width="189" valign="top">
                 <p>
-                    Introdução a fragmentos no desenvolvimento android.
+                    Introduction to fragments in android development
                 </p>
             </td>
         </tr>
@@ -81,8 +81,8 @@ Another topic is connection to database using web services structure. The didact
             </td>
             <td width="189" valign="top">
                 <p>
-                    Demonstração da funcionalidade dos fragmentos e passagem de
-                    dados entre eles.
+                    Demonstrating fragments functionalities and parameters pass between them
+                  
                 </p>
             </td>
         </tr>
@@ -99,7 +99,7 @@ Another topic is connection to database using web services structure. The didact
             </td>
             <td width="189" valign="top">
                 <p>
-                    Introdução a web services, xml e extração remota de dados
+                    Introduction to web services
                 </p>
             </td>
         </tr>
@@ -116,7 +116,7 @@ Another topic is connection to database using web services structure. The didact
             </td>
             <td width="189" valign="top">
                 <p>
-                    Intervalo
+                    Intervall
                 </p>
             </td>
         </tr>
@@ -136,8 +136,8 @@ Another topic is connection to database using web services structure. The didact
             </td>
             <td width="189" valign="top">
                 <p>
-                    Demonstração do uso de web services e obtenção de dados de
-                    páginas web.
+                    Demonstrating web services 
+                 
                 </p>
             </td>
         </tr>
@@ -154,7 +154,7 @@ Another topic is connection to database using web services structure. The didact
             </td>
             <td width="189" valign="top">
                 <p>
-                    Introdução a conexão com banco de dados utilizando web services, aplicativos e sistemas desktop.
+                    Introduction to database connection, and consuming them from web services using apps and desktop systems.
                 </p>
             </td>
         </tr>
@@ -174,7 +174,7 @@ Another topic is connection to database using web services structure. The didact
             </td>
             <td width="189" valign="top">
                 <p>
-                    Exemplo prático da conexão de múltiplos sistemas.
+                    Practical example of multiple systems
                 </p>
             </td>
         </tr>
@@ -191,7 +191,7 @@ Another topic is connection to database using web services structure. The didact
             </td>
             <td width="189" valign="top">
                 <p>
-                    Conclusão do assunto e abertura para dúvidas
+                    End and questions
                 </p>
             </td>
         </tr>
@@ -203,7 +203,7 @@ Another topic is connection to database using web services structure. The didact
             </td>
             <td width="189" valign="top">
                 <p>
-                    <strong>FIM DO PRIMEIRO DIA</strong>
+                    <strong>END OF FIRST DAY</strong>
                 </p>
             </td>
             <td width="189" valign="top">
@@ -217,7 +217,7 @@ Another topic is connection to database using web services structure. The didact
             </td>
             <td width="189" valign="top">
                 <p>
-                    <strong>SEGUNDO DIA</strong>
+                    <strong>SECOND DAY</strong>
                 </p>
             </td>
             <td width="189" valign="top">
@@ -236,7 +236,7 @@ Another topic is connection to database using web services structure. The didact
             </td>
             <td width="189" valign="top">
                 <p>
-                    Dúvidas frequentes nos assuntos abordados.
+                    Questions about related questions
                 </p>
             </td>
         </tr>
@@ -253,9 +253,8 @@ Another topic is connection to database using web services structure. The didact
             </td>
             <td width="189" valign="top">
                 <p>
-                    Dúvidas. Caso não haja dúvidas, serão apresentados tópicos
-                    ciêntificos relevantes do mercado de trabalho sobre os
-                    temas abordados.
+                    Questions. If there is no questions, topics about development will be covered
+                    
                 </p>
             </td>
         </tr>
@@ -272,7 +271,7 @@ Another topic is connection to database using web services structure. The didact
             </td>
             <td width="189" valign="top">
                 <p>
-                    Intervalo
+                    Intervall
                 </p>
             </td>
         </tr>
@@ -289,7 +288,7 @@ Another topic is connection to database using web services structure. The didact
             </td>
             <td width="189" valign="top">
                 <p>
-                    Continuação da sessão de dúvidas
+                    Continue of previous session
                 </p>
             </td>
         </tr>
@@ -301,7 +300,7 @@ Another topic is connection to database using web services structure. The didact
             </td>
             <td width="189" valign="top">
                 <p>
-                    <strong>FIM DO SEGUNDO DIA</strong>
+                    <strong>END OF SECOND DAY</strong>
                 </p>
             </td>
             <td width="189" valign="top">

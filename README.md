@@ -9,9 +9,6 @@ Next, is approached the web services structure, the use of "xml" files and how t
 Another topic is connection to database using web services structure. The didactics is used to facilitate the understanding of the subject.
 
 ## Topic Shedule
-<p>
-    <strong></strong>
-</p>
 <table border="1" cellspacing="0" cellpadding="0">
     <tbody>
         <tr>
@@ -27,7 +24,7 @@ Another topic is connection to database using web services structure. The didact
             </td>
             <td width="189" valign="top">
                 <p>
-                    <strong>TOPICS COVERED</strong>
+                    <strong>RELATED TOPIC</strong>
                 </p>
             </td>
         </tr>
@@ -39,7 +36,7 @@ Another topic is connection to database using web services structure. The didact
             </td>
             <td width="189" valign="top">
                 <p>
-                    <strong>FIRST DAY</strong>
+                    <strong>PRIMEIRO DIA</strong>
                 </p>
             </td>
             <td width="189" valign="top">
@@ -81,7 +78,7 @@ Another topic is connection to database using web services structure. The didact
             </td>
             <td width="189" valign="top">
                 <p>
-                    Demonstrating fragments functionalities and parameters pass between them
+                    Demonstration fragments functionalities and parameter pass.
                 </p>
             </td>
         </tr>
@@ -135,8 +132,7 @@ Another topic is connection to database using web services structure. The didact
             </td>
             <td width="189" valign="top">
                 <p>
-                    Demonstrating web services 
-                 
+                    Demonstrating web services
                 </p>
             </td>
         </tr>
@@ -153,7 +149,8 @@ Another topic is connection to database using web services structure. The didact
             </td>
             <td width="189" valign="top">
                 <p>
-                    Introduction to database connection, and consuming them from web services using apps and desktop systems.
+                    Introduction to database connection and consuming web
+                    service from android and desktop.
                 </p>
             </td>
         </tr>
@@ -173,7 +170,7 @@ Another topic is connection to database using web services structure. The didact
             </td>
             <td width="189" valign="top">
                 <p>
-                    Practical example of multiple systems
+                    Practical example
                 </p>
             </td>
         </tr>
@@ -190,7 +187,7 @@ Another topic is connection to database using web services structure. The didact
             </td>
             <td width="189" valign="top">
                 <p>
-                    End and questions
+                    Conclusion and questions
                 </p>
             </td>
         </tr>
@@ -235,7 +232,7 @@ Another topic is connection to database using web services structure. The didact
             </td>
             <td width="189" valign="top">
                 <p>
-                    Questions about related questions
+                    Questions
                 </p>
             </td>
         </tr>
@@ -252,8 +249,7 @@ Another topic is connection to database using web services structure. The didact
             </td>
             <td width="189" valign="top">
                 <p>
-                    Questions. If there is no questions, topics about development will be covered
-                    
+                    Questions or development questions.
                 </p>
             </td>
         </tr>
@@ -287,7 +283,7 @@ Another topic is connection to database using web services structure. The didact
             </td>
             <td width="189" valign="top">
                 <p>
-                    Continue of previous session
+                    Continuing previous session
                 </p>
             </td>
         </tr>
@@ -307,6 +303,3 @@ Another topic is connection to database using web services structure. The didact
         </tr>
     </tbody>
 </table>
-<p>
-    <strong></strong>
-</p>

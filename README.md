@@ -154,8 +154,7 @@ Another topic is connection to database using web services structure. The didact
             </td>
             <td width="189" valign="top">
                 <p>
-                    Introdução a conexão com banco de dados utilizando páginas
-                    web, aplicativos e sistemas desktop.
+                    Introdução a conexão com banco de dados utilizando web services, aplicativos e sistemas desktop.
                 </p>
             </td>
         </tr>

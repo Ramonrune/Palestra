@@ -82,7 +82,6 @@ Another topic is connection to database using web services structure. The didact
             <td width="189" valign="top">
                 <p>
                     Demonstrating fragments functionalities and parameters pass between them
-                  '
                 </p>
             </td>
         </tr>

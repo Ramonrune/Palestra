@@ -1,2 +1,2 @@
-# Palestra
-Repositório que contem os códigos utilizados na palestra realizada no SENAI Alvares Romi.
+# Lecture
+Lecture that contains all code used on lecture in SENAI Alvares Romi
